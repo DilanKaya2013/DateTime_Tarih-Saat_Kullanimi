@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\bin\Debug\DateTime-Tarihsaat_Kullanımı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\bin\Debug\DateTime-Tarihsaat_Kullanımı.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\bin\Debug\DateTime-Tarihsaat_Kullanımı.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\obj\Debug\DateTime-Tarihsaat_Kullanımı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\obj\Debug\DateTime-Tarihsaat_Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\obj\Debug\DateTime_Tarihsaat_Kullanımı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\obj\Debug\DateTime_Tarihsaat_Kullanımı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\obj\Debug\DateTime-Tarihsaat_Kullanımı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\obj\Debug\DateTime-Tarihsaat_Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\obj\Debug\DateTime-Tarihsaat_Kullanımı.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\DateTime-Tarihsaat_Kullanımı\obj\Debug\DateTime-Tarihsaat_Kullanımı.pdb
